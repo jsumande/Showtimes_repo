@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481625764244",
+    "firebase_url": "https://showtime-2bb9d.firebaseio.com",
+    "project_id": "showtime-2bb9d",
+    "storage_bucket": "showtime-2bb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481625764244:android:48a196973a3cf692ff5f81",
+        "android_client_info": {
+          "package_name": "com.showtimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481625764244-th0f9tgbk2svfrkadv9eumuui0goj9a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhWUgs81Y2kIEKCx3b-UzwwvMLJOi7sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481625764244-th0f9tgbk2svfrkadv9eumuui0goj9a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
